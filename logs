@@ -1,0 +1,9 @@
+1867/1867 [==============================] - 2132s 1s/step - loss: 0.8455 - accuracy: 0.6670 - val_loss: 0.5038 - val_accuracy: 0.8138
+Epoch 2/5
+1867/1867 [==============================] - 2078s 1s/step - loss: 0.3346 - accuracy: 0.8807 - val_loss: 0.3559 - val_accuracy: 0.8709
+Epoch 3/5
+1867/1867 [==============================] - 2114s 1s/step - loss: 0.2010 - accuracy: 0.9258 - val_loss: 0.3433 - val_accuracy: 0.8843
+Epoch 4/5
+1867/1867 [==============================] - 2043s 1s/step - loss: 0.1478 - accuracy: 0.9438 - val_loss: 0.3489 - val_accuracy: 0.8907
+Epoch 5/5
+1867/1867 [==============================] - 2038s 1s/step - loss: 0.1232 - accuracy: 0.9508 - val_loss: 0.3883 - val_accuracy: 0.8954
